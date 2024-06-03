@@ -16,6 +16,7 @@ neps
 
 ## Exemplos de Saída
 Vogais: e
+
 Consoantes: nps
 
 ## Exemplos de Entrada
@@ -23,4 +24,5 @@ academy
 
 ## Exemplos de Saída
 Vogais: aae
+
 Consoantes: cdmy

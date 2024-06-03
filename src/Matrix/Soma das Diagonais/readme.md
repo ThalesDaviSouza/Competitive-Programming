@@ -28,6 +28,7 @@ A saída consiste de duas linhas. Cada linha contém uma mensagem indicando qual
 
 ### Exemplos de Saída
 Diagonal principal: 15
+
 Diagonal secundaria: 15
 
 ### Exemplos de Entrada
@@ -51,4 +52,5 @@ Diagonal secundaria: 15
 
 ### Exemplos de Saída
 Diagonal principal: 10
+
 Diagonal secundaria: 53

@@ -28,7 +28,9 @@ A saída consiste de três linhas. Cada linha contém uma mensagem indicando qua
 
 ### Exemplos de Saída
 Coluna 0: 15
+
 Coluna 1: 15
+
 Coluna 2: 15
 
 ### Exemplos de Entrada
@@ -52,5 +54,7 @@ Coluna 2: 15
 
 ### Exemplos de Saída
 Coluna 0: 7
+
 Coluna 1: 15
+
 Coluna 2: 53

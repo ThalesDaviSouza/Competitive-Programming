@@ -14,30 +14,48 @@ A saída é composta por N linhas. A i-ésima linha da saída contém o número 
 
 ### Exemplos de Entrada
 5
+
 0
+
 1
+
 1
+
 0
+
 1
 
 ### Exemplos de Saída
 1
+
 2
+
 2
+
 2
+
 1
 
 ### Exemplos de Entrada
 5
+
 0
+
 1
+
 1
+
 1
+
 0
 
 ### Exemplos de Saída
 1
+
 2
+
 3
+
 2
+
 1

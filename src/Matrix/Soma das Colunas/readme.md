@@ -9,13 +9,21 @@ A saída consiste de três linhas. Cada linha contém uma mensagem indicando qua
 
 ### Exemplos de Entrada
 2
+
 7
+
 6
+
 9
+
 5
+
 1
+
 4
+
 3
+
 8
 
 ### Exemplos de Saída
@@ -25,13 +33,21 @@ Coluna 2: 15
 
 ### Exemplos de Entrada
 1
+
 2
+
 4
+
 5
+
 4
+
 6
+
 45
+
 3
+
 5
 
 ### Exemplos de Saída

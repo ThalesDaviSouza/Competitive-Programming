@@ -1,7 +1,7 @@
 /**
  * O desafio aqui é completar essa tarefa
  * utilizando set. Outras estruturas seriam
- * mais eficientes, como o map.
+ * mais eficientes, como o vector.
  */
 
 #include <iostream>
